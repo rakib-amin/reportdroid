@@ -3,4 +3,4 @@ JENKINS_HOST = '<JENKINS_HOST>'
 JOB = '<JOB_NAME>'
 USER = '<JENKINS_USER>'
 
-ANDROID_AUTO_REPO = '~/AndroidAuto/'
+ANDROID_AUTO_REPO = '~/EspressoTest/'
